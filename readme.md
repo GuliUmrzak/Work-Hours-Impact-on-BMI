@@ -6,10 +6,10 @@
 
 Utilizing the Life in Transition Survey dataset provided by the European Bank for Reconstruction and Development in collaboration with the World Bank, this project offers an analysis of socio-economic and political factors affecting health outcomes in 31 countries. The dataset provides a rich source of information, allowing for an in-depth examination of the determinants of health within these populations.
 
-### Contents of the Repository
+## Contents of the Repository
 
 - `Health_Status_Analysis.ipynb`: A Jupyter notebook containing all the data preprocessing steps, exploratory data visualization, and machine learning models applied to predict the Body Mass Index (BMI) variable.
-
+The dataset can be accessed through this link: https://www.ebrd.com/what-we-do/economic-research-and-data/data/lits.html
 ## Data Preprocessing
 
 The initial stage of the project involves cleaning and preparing the data for analysis. This includes handling missing values, encoding categorical variables, and normalizing the data where necessary.
